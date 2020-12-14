@@ -37,6 +37,8 @@
 						<workerType>Micro</workerType>
 						<applicationName>worldtimezoneservice</applicationName>
 						<password>Alemu123</password>
+						<muleVersion>4.3.0</muleVersion>
+						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
