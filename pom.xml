@@ -35,7 +35,7 @@
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						<applicationName>worldtimezoneservice</applicationName>
+						<applicationName>munatime</applicationName>
 						<password>Alemu123</password>
 						<muleVersion>4.3.0</muleVersion>
 						<objectStoreV2>true</objectStoreV2>
